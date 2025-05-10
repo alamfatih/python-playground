@@ -1,0 +1,3 @@
+Day 1: Learn Python
+Day 2: Learn Data Analytics
+Day 3: Learn Data Visualization with Tableau
